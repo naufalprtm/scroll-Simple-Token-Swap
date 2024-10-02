@@ -115,9 +115,3 @@ main();
    ```    
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Key Improvements:
-- **Code Blocks**: Clearly formatted code sections for better readability.
-- **Usage Section**: Separated instructions for deploying on localhost and testnet for clarity.
-- **Added Dependencies**: Included installation of dependencies for completeness.
-- **Deployment Script Logging**: Added a console log in the deployment script for easier tracking of the deployed contract address.
